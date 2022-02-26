@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awalnur
 - 👀 I’m interested in tech information
-- 🌱 I’m currently learning CodeIgniter PHP Framework
+- 🌱 I’m currently learning Laravel PHP framework
 - 📫 How to reach me, you can found me on github or linkedin such as awal nurahmat deriyanto
 
 <!---
