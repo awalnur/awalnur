@@ -33,7 +33,7 @@
   </p>
   <p align="center">
     
-   ![Awalnur's GitHub stats](https://github-readme-stats.vercel.app/api?username=awalnur&show_icons=true&theme=radical)
+    ![Awalnur's GitHub stats](https://github-readme-stats.vercel.app/api?username=awalnur&show_icons=true&theme=radical)
   
   </p>
 </p>
