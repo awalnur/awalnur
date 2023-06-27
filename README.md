@@ -31,4 +31,7 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
+  <p align="center">
+  ![Awalnur's GitHub stats](https://github-readme-stats.vercel.app/api?username=awalnur&show_icons=true&theme=radical)
+  </p>
 </p>
