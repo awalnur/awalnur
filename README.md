@@ -4,9 +4,6 @@
 <!--  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p> -->
 </p>
   <p align="center">
-    <a href="https://github.com/awalnur/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/awalnur/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
     <a href="https://github.com/awalnur/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/awalnur/github-readme-stats" />
     </a>
@@ -34,6 +31,7 @@
   <p align="center">
     
   ![Awalnur's GitHub stats](https://github-readme-stats.vercel.app/api?username=awalnur&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awalnur)](https://github.com/anuraghazra/github-readme-stats)
   
   </p>
 </p>
