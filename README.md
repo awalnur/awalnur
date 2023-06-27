@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @awalnur
+[- 👋 Hi, I’m @awalnur
 - 👀 I’m interested in tech information
 - 🌱 I’m currently learning Laravel PHP framework
 - 📫 How to reach me, you can found me on github or linkedin such as awal nurahmat deriyanto
 
-<!---
-awalnur/awalnur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://github-readme-stats.vercel.app/api?username=awalnur&show_icons=true&count_private=true)https://github-readme-stats.vercel.app/api?username=awalnur&show_icons=true&count_private=true
