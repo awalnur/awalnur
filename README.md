@@ -1,11 +1,10 @@
 ### Hi! 👋 I'm Awal Nur.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer.
 
 - 🔭 I’m currently working on <a href="https://delameta.com">PT. Delameta Bilano</a>
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: taufikalexx13@gmail.com
-- ⚡ Fun fact: Will be Father of a daughter
+- 💬 Feel free to ask me about web development or Backend
+- 📫 How to reach me: awal.n.deriyanto@gmail.com
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -25,4 +24,3 @@ An independent Software Engineer who loves to create and share projects about we
 
 ### Reach me on
 - <a href="https://id.linkedin.com/in/awalnur">LinkedIn</a>
-- taufikalexx13@gmail.com
