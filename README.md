@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Awal Nur.
 
-An independent Software Engineer.
+I am a Backend Engineer with a focus on developing and maintaining backend system components. Having a basic understanding of frontend development and experience as a full-stack developer.
 
 - 🔭 I’m currently working on <a href="https://delameta.com">PT. Delameta Bilano</a> as Backend software engineer
 - 💬 Feel free to ask me about web development or Backend
