@@ -8,7 +8,8 @@ An independent Software Engineer.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-  <a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
+  <a href="#"><img align="left" alt="PHP" title="PHP" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
+  <a href="#"><img align="left" alt="FASTAPI" title="FASTAPI" width="100px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" /></a>
   <br>
   <br>
   
