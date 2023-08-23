@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Taufik Alex.
+### Hi! 👋 I'm Awal Nur.
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
@@ -17,12 +17,12 @@ An independent Software Engineer who loves to create and share projects about we
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/TaufikAlex">
+<a href="https://github.com/awalnur">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=awalnur&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awalnur&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://id.linkedin.com/in/taufikalex">LinkedIn</a>
+- <a href="https://id.linkedin.com/in/awalnur">LinkedIn</a>
 - taufikalexx13@gmail.com
