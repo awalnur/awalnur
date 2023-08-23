@@ -2,7 +2,7 @@
 
 An independent Software Engineer.
 
-- 🔭 I’m currently working on <a href="https://delameta.com">PT. Delameta Bilano</a>
+- 🔭 I’m currently working on <a href="https://delameta.com">PT. Delameta Bilano</a> as Backend software engineer
 - 💬 Feel free to ask me about web development or Backend
 - 📫 How to reach me: awal.n.deriyanto@gmail.com
 
