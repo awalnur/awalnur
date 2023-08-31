@@ -10,7 +10,6 @@ I am a Backend Engineer with a focus on developing and maintaining backend syste
   <a href="#"><img align="left" alt="Python" title="Python" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
   <a href="#"><img align="left" alt="PHP" title="PHP" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
   <a href="#"><img align="left" alt="FASTAPI" title="FASTAPI" height="21px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" /></a>
-  ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
   <br>
   <br>
   
