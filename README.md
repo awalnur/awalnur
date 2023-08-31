@@ -20,6 +20,7 @@ I am a Backend Engineer with a focus on developing and maintaining backend syste
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awalnur&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="awalnur" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/awalnur?trk=profile-badge">Awal Nurahmat Deriyanto</a></div>
+              
 ### Reach me on
 - <a href="https://id.linkedin.com/in/awalnur">LinkedIn</a>
