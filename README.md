@@ -2,9 +2,6 @@
 
 I am a Backend Engineer with a focus on developing and maintaining backend system components. Having a basic understanding of frontend development and experience as a full-stack developer.
 
-- 🔭 I’m currently working on <a href="https://delameta.com">PT. Delameta Bilano</a> as Backend software engineer
-- 💬 Feel free to ask me about web development or Backend
-- 📫 How to reach me: awal.n.deriyanto@gmail.com
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Python" title="Python" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
